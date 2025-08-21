@@ -1,1 +1,9 @@
 "# Ignore PyCharm files`n.idea/`n__pycache__/`n*.pyc`n*.png`n*.jpg" 
+# Ignore PyCharm project settings
+.idea/
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore creative folder
+creative/
